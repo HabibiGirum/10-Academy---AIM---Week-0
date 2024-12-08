@@ -2,8 +2,7 @@ name: week-0 CI
 
 on:
   push:
-    branches:
-      - week-0
+    branches: [week-0]
 
 jobs:
   build:
